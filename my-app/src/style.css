@@ -1,0 +1,11 @@
+body {
+  font-weight: 250;
+}
+
+.navbar {
+  border-bottom: 1px solid #D3D3D3;
+}
+
+a {
+  text-decoration: none;
+}
