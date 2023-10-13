@@ -9,3 +9,12 @@ body {
 a {
   text-decoration: none;
 }
+
+#drop {
+  color: black !important;
+}
+
+#buttons {
+  background-color: rgb(16, 172, 4);
+  border-color: rgb(16, 172, 4) !important;
+}
